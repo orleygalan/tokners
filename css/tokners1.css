@@ -1,0 +1,139 @@
+@media (max-width: 525px) {
+    .contenedor{
+        width: 100%;
+    }
+    .contenedor ul{
+        display: none;
+    }
+    .contenedor .lavas a{
+        display: none;
+    }
+    .contenedor .lavas .ve{
+        display: none;
+    }
+    .contenedor .rey2{
+        flex-direction: column;
+     }
+    .contenedor .rey2 .principe1 h6{
+        padding-left: 8%;
+        }
+    .contenedor .rey2 .principe1 h2{
+        padding-left: 8%;
+        width: 80%;
+        } 
+        .contenedor .rey2 .principe1 p{
+            width: 80%;
+            padding-left: 8%;
+        } 
+        .contenedor .principe2 img{
+            width: 155%;
+            text-align: center;
+            margin-left: -43%;
+        }
+    .contenedor .rey3{
+        flex-direction: column;
+    }
+    .contenedor .rey3 .mesero1 {
+        width: 80%;
+    padding: 6%;
+    }
+    .contenedor .rey3 .mesero2 {
+        width: 80%;
+    padding: 6%;
+    }
+    .contenedor .rey4{
+        flex-direction: column;
+    }
+    .contenedor .rey4 .chofer2{
+        width: 84%;
+        height: 100%;
+        padding:8%;
+        border-radius: 0px 200px 0px 0px;
+    }
+    .contenedor .rey4 .chofer1 img{
+        transform: scaleX(-1);
+        width: 100%;
+        height: 100%;
+    }
+    .contenedor .rey4 .chofer2 h1{
+        padding-top: 23%;
+    }
+    .contenedor .rey5{
+       flex-direction: column;
+       margin-left: 8%;
+    }
+    .rey6 {
+        flex-direction: column-reverse;
+    }
+    .rey6 .tex{
+        width:87%;
+        margin-left: 0%;
+    }
+    .rey6 .tex h3{
+        font-size: 194%;
+    }
+    .rey6 .otom img{
+        width: 84%;
+        margin-top: 0%;
+    }
+    .rey7 .bety{
+        flex-direction: column;
+    }
+    .rey7 .carta1{
+        display: none;
+        
+    }
+    .rey7 .carta2{
+        width: 85%;
+        
+    }
+    .rey7 .carta3 {
+        display: none;
+        
+    }
+    .rey7 img{
+        width: 400%;
+    }
+    .rey7 .bety{
+        bottom: 60%;
+    }
+    .rey8{
+       flex-direction: column;
+    }
+    .rey8 .pasa1 {
+        display: none;
+    }
+    .rey8 .pasa2 {
+        display: none;
+    }
+    .rey8 .flecha1{
+        display: none;
+    }
+    .rey8 .flecha2{
+        display: none;
+    }
+    .rey8 .card1 {
+        width: 63%;
+        padding: 14%;
+        display: inline-block;
+    }
+    .rey8 .card2 {
+        width: 63%;
+        padding: 14%;
+        display: inline-block;
+    }
+    .rey8 .card3 {
+        width: 63%;
+        padding: 14%;
+        display: inline-block;
+    }
+    .rey9{
+        gap: 5%;
+    }
+    .grupo{
+        gap: 3%;
+    }
+    .final{
+        flex-direction: column;
+    }
+}
