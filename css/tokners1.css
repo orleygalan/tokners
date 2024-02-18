@@ -1,4 +1,4 @@
-@media (max-width: 525px) {
+@media (max-width: 685px) {
     .contenedor{
         width: 100%;
     }
@@ -99,9 +99,11 @@
     }
     .rey8{
        flex-direction: column;
+       text-align: center;
     }
     .rey8 .pasa1 {
         display: none;
+        text-align: center;
     }
     .rey8 .pasa2 {
         display: none;
@@ -115,17 +117,21 @@
     .rey8 .card1 {
         width: 63%;
         padding: 14%;
+        margin-left: 20px;
         display: inline-block;
     }
     .rey8 .card2 {
         width: 63%;
         padding: 14%;
         display: inline-block;
+        margin-left: 20px;
     }
     .rey8 .card3 {
         width: 63%;
         padding: 14%;
         display: inline-block;
+        margin-left: 20px;
+        margin-top: 3%;
     }
     .rey9{
         gap: 5%;
